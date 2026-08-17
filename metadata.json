@@ -1,0 +1,6 @@
+{
+  "name": "TeleVault",
+  "description": "Secure Telegram media and chat exporter with local AES-256 encryption, batch download for public/private channels, format conversion to MP4, MP3, JPEG, and ZIP bundle exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

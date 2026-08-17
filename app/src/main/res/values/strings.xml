@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TeleVault</string>
+    <string name="tab_chats">Chats</string>
+    <string name="tab_downloads">Downloads</string>
+    <string name="tab_vault">Vault</string>
+    <string name="tab_stats">Stats &amp; Storage</string>
+    <string name="tab_safety">Shield</string>
+</resources>
